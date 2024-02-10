@@ -8,10 +8,10 @@ implement a sales screen to sell items for customers and have an invoice at the 
 - Mysql
 - JS
 
-## Instructions to run:
+## Instructions to run
 
 open terminal and run "npm start"
 
-## Instructions to run migration:
+## Instructions to run migration
 
 node migrate.js
